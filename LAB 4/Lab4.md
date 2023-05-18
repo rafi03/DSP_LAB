@@ -66,3 +66,9 @@ title("Auto-correlation");
 ## 4.3 Output
 ### 4.3.1 Delay Detection in Noisy Signal
 ![Figure Delay Detection in Noisy Signal](Noisy.png "Figure Delay Detection in Noisy Signal")
+
+### 4.3.2 Periodicity of A Signal
+![Figure Delay Detection in Noisy Signal](Periodicity.png "Figure Delay Detection in Noisy Signal")
+
+## 4.4 Conclusion
+In this experiment, we successfully detected delay in noisy signal and found periodicity of a signal.
