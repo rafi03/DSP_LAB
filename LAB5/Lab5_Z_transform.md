@@ -28,7 +28,7 @@ Table of Contents
 ## 5.1 Theory
 
 Z transform is to discrete-time systems what the Laplace transform is to continuous-time systems where $z$ is a complex variable.
-$$\mathcal{Z}\left\lbrace f[n]\right\} = F(z) = \sum_{n=0}^{\infty} f[n]z^{-n}$$
+$$\mathcal{Z}\left\lbrace f[n]\right\rbrace = F(z) = \sum_{n=0}^{\infty} f[n]z^{-n}$$
 
 **_Causal Signal_**
 
