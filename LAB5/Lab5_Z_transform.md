@@ -218,7 +218,9 @@ hold off;
 ## 5.3.1 Causal
 
 ![Figure Delay Detection in Noisy Signal](Lab5_causal.png)
+
 ![Figure Delay Detection in Noisy Signal](Lab5_causal_zp.png)
+
 Zeros of the z-transform:
 $$ (0.2878 - 1.4161i), (0.2878 + 1.4161i),(-1.2878 - 0.8579i),(-1.2878 + 0.8579i)$$
 
@@ -227,8 +229,10 @@ $$ 0,0,0,0$$
 
 ## 5.3.2 Anti-Causal
 
-![Figure Delay Detection in Noisy Signal](Lab5_anticausal.png "Figure Delay Detection in Noisy Signal")
-![Figure Delay Detection in Noisy Signal](Lab5_anticausal_zp.png "Figure Delay Detection in Noisy Signal")
+![Figure Delay Detection in Noisy Signal](Lab5_anticausal.png)
+
+![Figure Delay Detection in Noisy Signal](Lab5_anticausal_zp.png)
+
 Zeros of the z-transform:
 $$ (0.2878 - 1.4161i),(0.2878 + 1.4161i),(-1.2878 - 0.8579i),(-1.2878 + 0.8579i)$$
 
