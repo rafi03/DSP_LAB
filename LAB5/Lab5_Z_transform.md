@@ -238,7 +238,9 @@ $$ \infty $$
 ## 5.3.3 Non Causal
 
 ![Figure Delay Detection in Noisy Signal](Lab5_non_causal.png)
+
 ![Figure Delay Detection in Noisy Signal](Lab5_non_causal_zp.png)
+
 Zeros of the z-transform:
 $$ (0.2878 - 1.4161i), (0.2878 + 1.4161i),(-1.2878 - 0.8579i),(-1.2878 + 0.8579i) $$
 
