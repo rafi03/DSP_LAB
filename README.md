@@ -8,7 +8,6 @@ ECE 4124
 
 ---
 
-Compare Built-in and User Defined Convolution Function
 Table of Contents
 
 - [Compare Built-in and User Defined Convolution Function](/Lab1/report_1.pdf)
